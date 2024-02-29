@@ -15,3 +15,11 @@ var myVar = "Hello, world!";
 ``` java
 System.out.println("Hello World!");
 ```
+
+
+
+
+- [ ] Good Morning!
+- [ ] Wake up!
+- [ ] Wash your face!
+- [ ] Say "Hello World"
