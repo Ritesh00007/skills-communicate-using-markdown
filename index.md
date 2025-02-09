@@ -8,3 +8,7 @@
 
 ```javascript
 var myVar = "Hello, World!";
+
+- [x] Introduce myself to the world
+- [ ] Learn Git and GitHub
+- [ ] Learn Markdown formatting
